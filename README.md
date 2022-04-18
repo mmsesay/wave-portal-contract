@@ -1,15 +1,24 @@
-# Basic Sample Hardhat Project
+# My Wave Portal Smart Contract 👋
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+> This is a contract where anyone on the internet can learn a little about who you are and send you a 👋 + a message and have that data saved on the blockchain through an Ethereum smart contract.
 
-Try running some of the following tasks:
+### **Welcome!**
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+To get started with this project, clone this repo and follow these commands:
+
+1. Run `npx hardhat run scripts/run.js` at the root of your directory
+
+👤 **Muhammad Sesay**
+
+- GitHub: [@mmsesay](https://github.com/mmsesay)
+- Twitter: [@DeeMaejor](https://twitter.com/DeeMaejor)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/muhammad-m-sesay)
+
+### Acknowledgments
+
+- [Buildspace](https://buildspace.so) for providing this awesome tutorial on how to get started with building a Web3 App with solidity + Ethereum Smart Contracts
+
+### **Questions?**
+
+Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b) and link your Discord account so you can get access to helpful channels and your instructor!
+
